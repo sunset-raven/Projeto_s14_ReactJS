@@ -1,0 +1,17 @@
+# Projeto da Semana 14 - React
+
+O objetivo do projeto foi aprofundar o estudo do React com seus useState e useEffect e modificar o interior do html no App.jsx de forma dinâmica.
+
+## Desafio:
+
+O problema a ser resolvido foi criar uma lista de repositórios vindos do GitHub e alterá-la de acordo com o digitado num campo input.
+
+## O que aprendemos:
+
+* Adicionar Axios;
+* Criar uma ponte com a parte de repositórios do github via Axios;
+* Utilizar useState e useEffect;
+* Utilizar o efeito onChange num campo input hml;
+* Usar o .map para criar uma lista de acordo com o que for digitado no campo input.
+
+@Projeto realizado por Andréa Vetter.
